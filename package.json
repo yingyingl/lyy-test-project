@@ -1,0 +1,22 @@
+{
+  "name": "lyy-test-project",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yingyingl/lyy-test-project.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yingyingl/lyy-test-project/issues"
+  },
+  "homepage": "https://github.com/yingyingl/lyy-test-project#readme"
+}
